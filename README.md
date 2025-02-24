@@ -214,5 +214,5 @@ El trabajo `build` se ejecuta en un sistema `ubuntu-latest` con los siguientes p
 
 ## 5. Comprobación de que se hace y se publica en DockerHub
 
-![5.1-parte-5](imagenes)
-![5.1-parte-6](imagenes)
+![5.1-parte-5](imagenes/docker-files-5.4-parte5.png)
+![5.1-parte-6](imagenes/docker-files-5.4-parte6.png)
