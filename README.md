@@ -216,3 +216,11 @@ El trabajo `build` se ejecuta en un sistema `ubuntu-latest` con los siguientes p
 
 ![5.1-parte-5](imagenes/docker-files-5.4-parte5.png)
 ![5.1-parte-6](imagenes/docker-files-5.4-parte6.png)
+
+## 6. Comprobación de que la aplicación se despliega y funciona correctamente
+
+```bash
+docker run -d -p 80:80 alexrl0/2048
+```
+
+![5.1-parte-5](imagenes/docker-files-5.4-parte7.png)
